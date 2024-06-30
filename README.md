@@ -1,5 +1,4 @@
-### Hello! I'm Naim, a Competitive programmer & 
- learning full-time full-stack web development 👨‍💻studying at Daffodil International University, Bangladesh 🚀  
+### Hello! I'm Naim, a Competitive programmer & learning full-time full-stack web development 👨‍💻studying at Daffodil International University, Bangladesh 🚀  
 ### <div align="center"></div>  
   
 
