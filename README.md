@@ -1,17 +1,11 @@
-### Hello! I'm Naim, a Competitive programmer & learning full-time full-stack web development 
-### 👨‍💻studying at Daffodil International University, Bangladesh 🚀 <div align="center"></div>  
-  
+# Hi, I'm Naim 👋
 
-- 🌱 I’m currently learning Full stack java devlopment  
-  
+Aspiring **Software Engineer** | Passionate about **Full-Stack Java Development** with **Spring Boot**.  
+🌱 Continuously learning modern web technologies and building projects to sharpen my skills.  
+❓ Open to collaborations, internships, fresher SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
 
-- ❓ Feel free to discuss anything related to Software Engineering.  
-  
+⚡ Fun fact: I prefer **tabs over spaces** 
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-  
 
   
 
@@ -79,4 +73,5 @@
 
 
 <br />
+
 
