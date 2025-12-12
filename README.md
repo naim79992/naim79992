@@ -2,7 +2,7 @@
 
 Aspiring **Software Engineer** | Passionate about **Full-Stack Java Development** with **Spring Boot**.  
 🌱 Continuously learning modern web technologies and building projects to sharpen my skills.  
-❓ Open to collaborations, internships, fresher SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
+❓ Open to collaborations, SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
 
 ⚡ Fun fact: I prefer **tabs over spaces** 
 
@@ -73,5 +73,6 @@ Aspiring **Software Engineer** | Passionate about **Full-Stack Java Development*
 
 
 <br />
+
 
 
