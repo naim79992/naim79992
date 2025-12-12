@@ -2,10 +2,7 @@
 
 **Software Engineer (Java)** | Passionate about Full-Stack Development with Spring Boot
 
-💻 Experienced with Java, Spring Boot, MySQL, PostgreSQL, REST APIs.
-
-🏆 Solved 2100+ competitive programming problems, participated in ICPC Regionals, and served as problem setter & judge in national contests.
-
+💻 Experienced with Java, Spring Boot, MySQL, PostgreSQL, REST APIs. Working at Unisoft Systems Limited as a Software Enginner. I'm passionate about problem-solving, backend engineering and always striving to create robust and high-performance systems.
 ❓ Open to collaborations, SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
 
 ⚡ Fun fact: I prefer **tabs over spaces** 
@@ -77,6 +74,7 @@
 
 
 <br />
+
 
 
 
