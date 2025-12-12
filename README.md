@@ -1,7 +1,8 @@
 # Hi, I'm Naim 👋
 
-Aspiring **Software Engineer** | Passionate about **Full-Stack Java Development** with **Spring Boot**.  
-🌱 Continuously learning modern web technologies and building projects to sharpen my skills.  
+**Software Engineer (Java)** | Passionate about Full-Stack Development with Spring Boot
+💻 Experienced with Java, Spring Boot, MySQL, PostgreSQL, REST APIs.
+🏆 Solved 2100+ competitive programming problems, participated in ICPC Regionals, and served as problem setter & judge in national contests.
 ❓ Open to collaborations, SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
 
 ⚡ Fun fact: I prefer **tabs over spaces** 
@@ -73,6 +74,7 @@ Aspiring **Software Engineer** | Passionate about **Full-Stack Java Development*
 
 
 <br />
+
 
 
 
