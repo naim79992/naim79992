@@ -1,6 +1,7 @@
 # Hi, I'm Naim 👋
 
 **Software Engineer (Java)** | Passionate about Full-Stack Development with Spring Boot
+
 💻 Experienced with Java, Spring Boot, MySQL, PostgreSQL, REST APIs.
 🏆 Solved 2100+ competitive programming problems, participated in ICPC Regionals, and served as problem setter & judge in national contests.
 ❓ Open to collaborations, SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
@@ -74,6 +75,7 @@
 
 
 <br />
+
 
 
 
