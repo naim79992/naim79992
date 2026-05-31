@@ -1,85 +1,86 @@
-# Hi, I'm Naim 👋
+<div align="center">
 
-**Software Engineer (Java)** | Passionate about Full-Stack Development with Spring Boot
+# Naim
+**Software Engineer · Java & Spring Boot**
 
-💻 Experienced with Java, Spring Boot, MySQL, PostgreSQL, REST APIs. Working at Unisoft Systems Limited as a Software Enginner. I'm passionate about problem-solving, backend engineering and always striving to create robust and high-performance systems.
+*Building robust backend systems at [Unisoft Systems Limited](https://github.com/naim79992)*
 
-Open to collaborations, SWE roles and discussing anything related to **Software Engineering & Problem Solving**.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/naim79992)
+[![Profile Views](https://komarev.com/ghpvc/?username=naim79992&style=flat&color=0A66C2)](https://github.com/naim79992)
 
-⚡ Fun fact: I prefer **tabs over spaces** 
-
-
-  
-
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## About
 
+Software Engineer focused on **Java backend development** and enterprise systems. Currently working at **Unisoft Systems Limited** building banking and financial software — Digital Loan Origination System (Card & Retail module), workflow engines.
 
-</td></tr></table>  
+I enjoy solving complex backend problems: distributed systems, clean architecture, and making things that actually work in production.
 
- 
+- 🏢 **Currently** — Software Engineer @ Unisoft Systems Limited
+- 💳 **Project** — Digital Loan Origination System · Card & Retail Module
+- 🔧 **Stack** — Java · Spring Boot · MySQL · PostgreSQL · REST APIs
+- 🌱 **Exploring** — Spring Security · Distributed Systems · System Design
+- ⚡ **Opinion** — Tabs over spaces. Always.
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=naim79992&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Tech Stack
 
-<br/>  
+**Backend**
 
-  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-<br/>  
+**Database**
 
-  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-<br/>  
+**Frontend**
 
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-## Visitor Counter  
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=naim79992&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=naim79992&show_icons=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim79992&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" />
 
+</div>
 
-<br />
+---
 
+## What I'm Working On
 
+```
+Digital Loan Origination System  →  Spring Boot + Thymeleaf + jQuery + MySQL
+                                    Unisoft Systems Limited
+Distributed Job Scheduler        →  Spring Boot + PostgreSQL + Consistent Hashing
+```
 
+---
 
+<div align="center">
 
+*Open to collaborations and SWE roles*
+**[mhnaim.cse@gmail.com](mailto:mhnaim.cse@gmail.com)**
 
-
-
+</div>
