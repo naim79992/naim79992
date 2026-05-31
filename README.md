@@ -57,17 +57,6 @@ I enjoy solving complex backend problems: distributed systems, clean architectur
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=naim79992&show_icons=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=333333&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim79992&layout=compact&hide_border=true&title_color=0A66C2&text_color=333333&bg_color=ffffff" />
-
-</div>
-
----
-
 ## What I'm Working On
 
 ```
